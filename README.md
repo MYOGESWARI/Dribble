@@ -266,7 +266,7 @@ footer {
 
 ## OUTPUT:
 
-[text](README.md)
+![alt text](1.png)
 
 
 
