@@ -266,9 +266,7 @@ footer {
 
 ## OUTPUT:
 
-![alt text](1.png)
-
-
+![alt text](<Screenshot (6).png>)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
